@@ -1,0 +1,13 @@
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\bin\Debug\netcoreapp3.1\ExamenProyecto.exe
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\bin\Debug\netcoreapp3.1\ExamenProyecto.deps.json
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\bin\Debug\netcoreapp3.1\ExamenProyecto.runtimeconfig.json
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\bin\Debug\netcoreapp3.1\ExamenProyecto.runtimeconfig.dev.json
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\bin\Debug\netcoreapp3.1\ExamenProyecto.dll
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\bin\Debug\netcoreapp3.1\ExamenProyecto.pdb
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\obj\Debug\netcoreapp3.1\ExamenProyecto.csprojAssemblyReference.cache
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\obj\Debug\netcoreapp3.1\ExamenProyecto.AssemblyInfoInputs.cache
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\obj\Debug\netcoreapp3.1\ExamenProyecto.AssemblyInfo.cs
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\obj\Debug\netcoreapp3.1\ExamenProyecto.csproj.CoreCompileInputs.cache
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\obj\Debug\netcoreapp3.1\ExamenProyecto.dll
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\obj\Debug\netcoreapp3.1\ExamenProyecto.pdb
+C:\Users\ecker\source\repos\ExamenSolucion\ExamenProyecto\obj\Debug\netcoreapp3.1\ExamenProyecto.genruntimeconfig.cache
